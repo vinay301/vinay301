@@ -1,5 +1,5 @@
-[![MasterHead](https://img.freepik.com/premium-vector/problem-solution-business-solving-look-ideas-with-concept-teamwork-can-use-web-banner-background-flat-illustration_2175-2937.jpg)](https://ornate-boba-a5f586.netlify.app/)
-
+<!--[![MasterHead](https://img.freepik.com/premium-vector/problem-solution-business-solving-look-ideas-with-concept-teamwork-can-use-web-banner-background-flat-illustration_2175-2937.jpg)](https://ornate-boba-a5f586.netlify.app/)-->
+![logo](https://github.com/vinay301/vinay301/blob/main/Banner.jpeg)
 <h1 align="center">Hey, I'm Vinay Sharma!</h1>
 <h3 align="center">A passionate, Result Driven full-stack developer from New Delhi, India</h3>
 <br/>
